@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hmuneebna
+- Hi, I’m Husam Muneeb
 - 👀 I’m interested in data analysis, and consulting.
 - 🌱 I’m currently learning computer science with a minor in mathematics. 
 - 💞️ I’m looking to collaborate on any technical project. 
