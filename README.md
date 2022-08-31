@@ -1,6 +1,5 @@
 - Hi, I’m Husam Muneeb
 - Graduated with a BS in Computer Science and a Minor in Mathematics
-- I’m looking to collaborate on any technical project. 
 - Reach me through linkedin: https://www.linkedin.com/in/husammuneeb/ 
 
 <!---
